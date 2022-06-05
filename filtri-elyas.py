@@ -36,43 +36,136 @@ print(f"{blue} ")
 print ("         Script By")
 print (Fore.BLUE + "")
 x = """               .. ... ....                                               Mehrab
-Hello My Friend Im ELYAS Megatrn I am filtering and I want to give you, my friends, a filtering code. I hope you use it correctly. Thank you.
+Hello My Friend Im elyas  Megatrn I am filtering and I want to give you, my friends, a filtering code. I hope you use it correctly. Thank you.
 GOD FIltering Rubika >~Elyas Megatrn>_
-                          
-									.............
-								            ..,;:ccc,.
-								          ......```;lxO.
-								.....````..........,:ld;
-								           .`;;;:::;,,.x,
-								      ..```.            0Xxoc:,.  ...
-								  ....                ,ONkc;,;cokOdc`,.
-								 .                   OMo           `:ddo.
-								                    dMc               :OO;
-								                    0M.                 .:o.
-								                    ;Wd
-								                     ;XO,
-								                       ,d0Odlc;,..
-								                           ..`,;:cdOOd::,.
-								                                    .:d;.`:;.
-								                                       'd,  .`
-								                                         ;l   ..
-								                                          .o
-								                                            c
-								                                            .`
-								                                             .
-								                                             
-														  _____ _  __   __ _    ____
-														| ____| | \ \ / // \  / ___|
-														|  _| | |  \ V // _ \ \___ \
-														| |___| |___| |/ ___ \ ___) |
-														|_____|_____|_/_/   \_\____/
-														
-														__  __ _____ ____    _  _____ ____  _   _
-														|  \/  | ____/ ___|  / \|_   _|  _ \| \ | |
-														| |\/| |  _|| |  _  / _ \ | | | |_) |  \| |
-														| |  | | |__| |_| |/ ___ \| | |  _ <| |\  |
-														|_|  |_|_____\____/_/   \_\_| |_| \_\_| \_|
-														
+                          														
+❌❌❌❌❌❌
+❌❌❌❌❌❌
+❌❌
+❌❌
+❌❌❌❌
+❌❌
+❌❌
+❌❌❌❌❌❌
+❌❌❌❌❌❌
+
+❌❌
+❌❌
+❌❌
+❌❌
+❌❌
+❌❌
+❌❌
+❌❌❌❌❌
+❌❌❌❌❌
+
+❌❌                      ❌❌
+  ❌❌                  ❌❌
+    ❌❌              ❌❌
+      ❌❌          ❌❌
+        ❌❌      ❌❌
+            ❌❌❌
+             ❌❌
+             ❌❌
+             ❌❌
+
+                
+               ❌❌
+              ❌❌❌
+            ❌❌ ❌❌
+          ❌❌     ❌❌
+        ❌❌❌❌❌❌❌❌
+      ❌❌❌❌❌❌❌❌❌❌
+    ❌❌                ❌❌
+  ❌❌                    ❌❌
+❌❌                        ❌❌
+
+     ❌❌❌❌
+  ❌❌❌❌❌
+❌❌
+❌❌
+   ❌❌❌❌
+           ❌❌
+           ❌❌
+  ❌❌❌❌❌
+    ❌❌❌❌
+
+
+
+
+❌❌❌                 ❌❌❌
+❌❌ ❌❌           ❌❌    ❌❌
+❌❌   ❌❌       ❌❌      ❌❌
+❌❌      ❌❌  ❌❌        ❌❌
+❌❌         ❌❌           ❌❌
+❌❌                        ❌❌
+❌❌                        ❌❌
+❌❌                        ❌❌
+
+❌❌❌❌❌❌
+❌❌❌❌❌❌
+❌❌
+❌❌
+❌❌❌❌
+❌❌
+❌❌
+❌❌❌❌❌❌
+❌❌❌❌❌❌
+
+      ❌❌❌❌❌
+   ❌❌❌❌❌❌
+ ❌❌            ❌
+❌❌
+❌❌         ❌❌❌
+❌❌           ❌❌
+ ❌❌          ❌❌
+   ❌❌❌❌❌❌
+      ❌❌❌❌❌
+
+               ❌❌
+              ❌❌❌
+            ❌❌ ❌❌
+          ❌❌     ❌❌
+        ❌❌❌❌❌❌❌❌
+      ❌❌❌❌❌❌❌❌❌❌
+    ❌❌                ❌❌
+  ❌❌                    ❌❌
+❌❌                        ❌❌
+
+       ❌❌❌❌❌❌❌
+       ❌❌❌❌❌❌❌
+            ❌❌
+            ❌❌
+            ❌❌
+            ❌❌
+            ❌❌
+            ❌❌
+            ❌❌
+
+❌❌❌❌❌
+❌❌❌❌❌❌
+❌❌       ❌❌
+❌❌       ❌❌
+❌❌❌❌❌❌
+❌❌❌❌❌
+❌❌      ❌❌
+❌❌        ❌❌
+❌❌          ❌❌
+
+
+
+❌❌❌                 ❌❌
+❌❌❌❌               ❌❌
+❌❌    ❌❌           ❌❌
+❌❌       ❌❌        ❌❌
+❌❌         ❌❌      ❌❌
+❌❌            ❌❌   ❌❌
+❌❌               ❌❌❌❌
+❌❌                 ❌❌❌
+
+
+
+
 
 									 			
                      new~acont~rubika:@megatrn
@@ -132,11 +225,11 @@ print (" Tank You ")
 time.sleep(0.6)
 print(f"{green}" )
 d = """
-Im Aryan Megatrn 
+Im Elyas Megatrn 
 Id Rubika: @megatrn
-Chanel Rubika: @mi_aryan_megatrn
-Id Telegram : @Mr_aryan_a_h_a
-Link Gap : https://rubika.ir/my_gard_megatrn
+Chanel Rubika: @megatrn
+Id Telegram : @megatrn
+Link Gap : https://rubika.ir/megatrn
 Ye Ostoreh
 """
 
@@ -174,7 +267,7 @@ time.sleep(1)
 print(f"{red} ")
 time.sleep(0.2)
 print (""" !!! Update Script !!!
-rm -rf aryan-mega-trn 
+rm -rf aryan-mega-trn
 git clone https://github.com/aryanmega12/aryan-mega-trn
 cd aryan-mega-trn
 python filtri-elyas.py""")
